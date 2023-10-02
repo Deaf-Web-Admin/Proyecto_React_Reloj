@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --Color1: #406082;
+  --Color2: #ff4727;
+  --Color3: #000000;
+  --Color4: #04ff04;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: var(--Color3);
+}
